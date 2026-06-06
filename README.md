@@ -24,9 +24,10 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 - Expo Snack: [tempel link di sini]
 
 ## Screenshot
-![Kondisi Awal](screenshots/empty.png)
-![Loading](screenshots/loading.png)
-![Hasil](screenshots/result.png)
+![Kosong](https://github.com/manisha53708/tugas-praktek-10/blob/main/assets/kosong.jpeg)
+![Loading](https://github.com/manisha53708/tugas-praktek-10/blob/main/assets/loading.jpeg)
+![Sukses](https://github.com/manisha53708/tugas-praktek-10/blob/main/assets/sukses.jpeg)
+![Error](https://github.com/manisha53708/tugas-praktek-10/blob/main/assets/error.jpeg)
 
 ## Author
-[Nama] - [NIM] - Universitas Prima Indonesia
+[Manishaa Rajs Kaur] - [243303620221] - Universitas Prima Indonesia
